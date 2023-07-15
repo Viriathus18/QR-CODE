@@ -23,8 +23,7 @@ A QR code component for Frontend Mentor.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://viriathus18.github.io/QR-CODE/)
 
 
 ### Built with
@@ -39,6 +38,6 @@ Completing this project helped me learn about flexbox properties in css and also
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Viriathus18](https://www.frontendmentor.io/profile/Viriathus18)
 - Twitter - [@iViriathus](https://www.twitter.com/iViriathus)
 
