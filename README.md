@@ -18,7 +18,7 @@ A QR code component for Frontend Mentor.
 
 ### Screenshot
 
-![screenshot](image.png)
+![screenshot](screenshot.png)
 
 
 ### Links
