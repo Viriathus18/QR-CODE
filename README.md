@@ -23,7 +23,7 @@ A QR code component for Frontend Mentor.
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://viriathus18.github.io/QR-CODE/)
+- Live Site URL: [Live site](https://viriathus18.github.io/QR-CODE/)
 
 
 ### Built with
